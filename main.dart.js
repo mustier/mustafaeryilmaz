@@ -65015,7 +65015,7 @@ $0(){var s=this.a
 s.cG(s.a.c.r)},
 $S:0}
 A.Jd.prototype={
-F(a){var s=null,r=a.I(t.w).f.a.a<=500?0.25:1,q=t.p
+F(a){var s=null,r=a.I(t.w).f.a.a<=500?0.2:0.8,q=t.p
 return new A.hN(r,A.lt(B.aU,A.a([A.cp(s,s,B.m,A.aB(168,25,25,35),s,s,s,s,s,s,s,s,s),new A.uj(5,A.ajA(A.ahk(B.dB,A.bG(A.a([new A.y_(B.GT,B.bV,B.tn,s)],q),B.D,B.o),s),B.JK,s),s)],q),B.vY),s)}}
 A.ny.prototype={
 F(a){var s=null,r=A.a([A.aio(this.d),B.de],t.p)
