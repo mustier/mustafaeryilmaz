@@ -64957,8 +64957,12 @@ A.a01.prototype={
 $2(a,b){return new A.nc(this.a.e[b],null)},
 $S:401}
 A.J9.prototype={
-F(a){var s=null,r=t.w,q=!(a.I(r).f.a.a<=700)?4.5:2.5,p=A.kl(10),o=t.p
-return new A.hN(q,A.cp(s,new A.cy(B.aN,A.dY(A.a([A.SW(p,A.F4("assets/images/ragi_studios.png",s,!(a.I(r).f.a.a<=700)?s:100,s)),B.df,new A.j6(1,B.cz,A.bG(A.a([B.Qw,B.ai,B.Qf,A.Ji(B.QC,new A.a4P(this)),B.ar,B.Qe,B.ar],o),B.G,B.cR),s)],o),B.G,B.o,B.N),s),B.m,s,s,B.xE,s,s,s,s,s,s,s),s)},
+F(a){var s,r,q,p=null,o=t.w
+if(a.I(o).f.a.a<=500)s=0.5
+else s=!(a.I(o).f.a.a<=700)?4.5:2.5
+r=A.kl(10)
+q=t.p
+return new A.hN(s,A.cp(p,new A.cy(B.aN,A.dY(A.a([A.SW(r,A.F4("assets/images/ragi_studios.png",p,!(a.I(o).f.a.a<=700)?p:100,p)),B.df,new A.j6(1,B.cz,A.bG(A.a([B.Qw,B.ai,B.Qf,A.Ji(B.QC,new A.a4P(this)),B.ar,B.Qe,B.ar],q),B.G,B.cR),p)],q),B.G,B.o,B.N),p),B.m,p,p,B.xE,p,p,p,p,p,p,p),p)},
 cG(a){return this.a2p(a)},
 a2p(a){var s=0,r=A.a_(t.z),q
 var $async$cG=A.a0(function(b,c){if(b===1)return A.X(c,r)
@@ -65017,7 +65021,7 @@ $0(){var s=this.a
 s.cG(s.a.c.r)},
 $S:0}
 A.Je.prototype={
-F(a){var s=null,r=a.I(t.w).f.a.a<=500?0.5:1,q=t.p
+F(a){var s=null,r=a.I(t.w).f.a.a<=500?0.25:1,q=t.p
 return new A.hN(r,A.lt(B.aU,A.a([A.cp(s,s,B.m,A.aB(168,25,25,35),s,s,s,s,s,s,s,s,s),new A.uj(5,A.ajB(A.ahl(B.dB,A.bG(A.a([new A.y_(B.GT,B.bV,B.tn,s)],q),B.D,B.o),s),B.JK,s),s)],q),B.vY),s)}}
 A.ny.prototype={
 F(a){var s=null,r=A.a([A.aip(this.d),B.de],t.p)
