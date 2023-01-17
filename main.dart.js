@@ -58011,7 +58011,7 @@ F(a){var s,r,q=null,p=t.w,o=!(a.I(p).f.a.a<=700)?4.5:2.5,n=A.jS(10)
 n=A.Qx(n,A.DA("assets/images/ragi_studios.png",q,!(a.I(p).f.a.a<=700)?q:100,q))
 s=t.p
 r=A.a([B.OR,B.ab,B.OA,A.Hm(B.OX,new A.a1M(this)),B.al],s)
-if(a.I(p).f.a.a<=500)r.push(B.Oz)
+if(!(a.I(p).f.a.a<=500))r.push(B.Oz)
 r.push(B.al)
 return new A.hl(o,A.c8(q,new A.ci(B.aF,A.dA(A.a([n,B.cM,new A.iG(1,B.cf,A.bw(r,B.D,B.cp),q)],s),B.D,B.n,B.K),q),B.l,q,q,B.wt,q,q,q,q,q,q,q),q)},
 cl(a){return this.Zr(a)},
@@ -58072,7 +58072,7 @@ $0(){var s=this.a
 s.cl(s.a.c.r)},
 $S:0}
 A.Hi.prototype={
-F(a){var s=null,r=a.I(t.w).f.a.a<=500?0.2:0.6,q=t.p
+F(a){var s=null,r=a.I(t.w).f.a.a<=500?0.1:0.6,q=t.p
 return new A.hl(r,A.kU(B.aK,A.a([A.c8(s,s,B.l,A.aB(168,25,25,35),s,s,s,s,s,s,s,s,s),new A.tn(5,A.afO(A.ady(B.d_,A.bw(A.a([new A.wJ(B.FF,B.bC,B.r2,s)],q),B.B,B.n),s),B.Iv,s),s)],q),B.uJ),s)}}
 A.mS.prototype={
 F(a){var s=null,r=A.a([A.aeD(this.d),B.cL],t.p)
