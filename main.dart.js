@@ -58007,8 +58007,13 @@ A.Y6.prototype={
 $2(a,b){return new A.mB(this.a.e[b],null)},
 $S:393}
 A.Hf.prototype={
-F(a){var s=null,r=t.w,q=!(a.I(r).f.a.a<=700)?4.5:2.5,p=A.jS(10),o=t.p
-return new A.hl(q,A.c8(s,new A.ci(B.aF,A.dA(A.a([A.Qx(p,A.DA("assets/images/ragi_studios.png",s,!(a.I(r).f.a.a<=700)?s:100,s)),B.cM,new A.iG(1,B.cf,A.bw(A.a([B.OR,B.ab,B.OA,A.Hm(B.OX,new A.a1M(this)),B.al,B.Oz,B.al],o),B.D,B.cp),s)],o),B.D,B.n,B.K),s),B.l,s,s,B.wt,s,s,s,s,s,s,s),s)},
+F(a){var s,r,q=null,p=t.w,o=!(a.I(p).f.a.a<=700)?4.5:2.5,n=A.jS(10)
+n=A.Qx(n,A.DA("assets/images/ragi_studios.png",q,!(a.I(p).f.a.a<=700)?q:100,q))
+s=t.p
+r=A.a([B.OR,B.ab,B.OA,A.Hm(B.OX,new A.a1M(this)),B.al],s)
+if(a.I(p).f.a.a<=500)r.push(B.Oz)
+r.push(B.al)
+return new A.hl(o,A.c8(q,new A.ci(B.aF,A.dA(A.a([n,B.cM,new A.iG(1,B.cf,A.bw(r,B.D,B.cp),q)],s),B.D,B.n,B.K),q),B.l,q,q,B.wt,q,q,q,q,q,q,q),q)},
 cl(a){return this.Zr(a)},
 Zr(a){var s=0,r=A.a_(t.z),q
 var $async$cl=A.a0(function(b,c){if(b===1)return A.X(c,r)
