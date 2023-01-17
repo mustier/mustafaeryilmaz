@@ -57872,14 +57872,16 @@ else return s.c}}
 A.Ai.prototype={
 F(a){return A.bw(B.Ex,B.D,B.n)}}
 A.EZ.prototype={
-F(a){var s,r,q,p=null,o=t.w,n=a.I(o).f.a.a>=1100?0.7:0.209,m=A.dA(B.Fd,B.D,B.cp,B.K),l=A.c8(p,A.bw(B.EJ,B.D,B.n),B.l,p,p,p,p,p,p,B.aF,p,p,p),k=A.adB(B.bD,2),j=t.p
-k=A.c8(p,A.bw(A.a([A.bw(B.EU,B.B,B.n)],j),B.D,B.n),B.l,p,p,new A.dh(p,p,k,p,p,p,B.ac),p,p,p,B.aF,p,p,p)
+F(a){var s,r,q=null,p=t.w,o=a.I(p).f.a.a>=1100?0.7:0.209,n=A.dA(B.Fd,B.D,B.cp,B.K),m=A.c8(q,A.bw(B.EJ,B.D,B.n),B.l,q,q,q,q,q,q,B.aF,q,q,q),l=A.adB(B.bD,2),k=t.p
+l=A.c8(q,A.bw(A.a([A.bw(B.EU,B.B,B.n)],k),B.D,B.n),B.l,q,q,new A.dh(q,q,l,q,q,q,B.ac),q,q,q,B.aF,q,q,q)
 s=A.adB(B.bD,2)
-r=a.I(o).f.a.a>=1100?3:1
-s=A.c8(p,A.bw(A.a([B.OP,B.ab,A.aeA(B.EG,new A.wv(r,20,20,a.I(o).f.a.a>=1100?1.3:2),B.fr,!0)],j),B.B,B.n),B.l,p,p,new A.dh(p,p,s,p,p,p,B.ac),p,p,p,B.aF,p,p,p)
-r=B.d.da(A.aai(a,2,1,p,p))
-q=A.aai(a,3.5,1,3,4)
-return new A.hl(n,A.c8(p,new A.ci(B.aF,A.bw(A.a([m,B.T,B.OG,l,B.T,k,B.T,s,B.T,A.aeA(A.a([A.c8(p,A.bw(B.Fy,B.D,B.n),B.l,p,p,B.cS,p,p,p,B.eU,p,p,p),A.c8(p,A.bw(B.Ft,B.D,B.n),B.l,p,p,B.cS,p,p,p,B.eU,p,p,p)],j),new A.wv(r,20,20,q),B.fr,!0),B.al],j),B.B,B.n),p),B.l,p,p,B.wu,p,p,p,p,p,p,p),p)}}
+r=a.I(p).f.a.a>=1100?3:1
+if(a.I(p).f.a.a<=500)p=3
+else p=a.I(p).f.a.a>=1100?1.3:2
+s=A.c8(q,A.bw(A.a([B.OP,B.ab,A.aeA(B.EG,new A.wv(r,20,20,p),B.fr,!0)],k),B.B,B.n),B.l,q,q,new A.dh(q,q,s,q,q,q,B.ac),q,q,q,B.aF,q,q,q)
+p=B.d.da(A.aai(a,2,1,q,q))
+r=A.aai(a,3.5,1,3,4)
+return new A.hl(o,A.c8(q,new A.ci(B.aF,A.bw(A.a([n,B.T,B.OG,m,B.T,l,B.T,s,B.T,A.aeA(A.a([A.c8(q,A.bw(B.Fy,B.D,B.n),B.l,q,q,B.cS,q,q,q,B.eU,q,q,q),A.c8(q,A.bw(B.Ft,B.D,B.n),B.l,q,q,B.cS,q,q,q,B.eU,q,q,q)],k),new A.wv(p,20,20,r),B.fr,!0),B.al],k),B.B,B.n),q),B.l,q,q,B.wu,q,q,q,q,q,q,q),q)}}
 A.kR.prototype={
 F(a){var s,r,q,p=null,o=t.p,n=A.a([A.c3(this.c,15,B.v,p,B.jU,B.aB,p),B.cN],o)
 for(s=this.d,r=s.length,q=0;q<r;++q)n.push(A.dA(A.a([B.cM,B.OL,new A.lL(1,B.ce,A.bw(A.a([A.c3(s[q],2,B.v,p,B.dY,B.A,p)],o),B.D,B.n),p)],o),B.B,B.n,B.K))
