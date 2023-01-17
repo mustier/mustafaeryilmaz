@@ -57876,7 +57876,7 @@ F(a){var s,r,q=null,p=t.w,o=a.I(p).f.a.a>=1100?0.7:0.209,n=A.dA(B.Fd,B.D,B.cp,B.
 l=A.c8(q,A.bw(A.a([A.bw(B.EU,B.B,B.n)],k),B.D,B.n),B.l,q,q,new A.dh(q,q,l,q,q,q,B.ac),q,q,q,B.aF,q,q,q)
 s=A.adB(B.bD,2)
 r=a.I(p).f.a.a>=1100?3:1
-if(a.I(p).f.a.a<=500)p=0.5
+if(a.I(p).f.a.a<=500)p=1
 else p=a.I(p).f.a.a>=1100?1.3:2
 s=A.c8(q,A.bw(A.a([B.OP,B.ab,A.aeA(B.EG,new A.wv(r,20,20,p),B.fr,!0)],k),B.B,B.n),B.l,q,q,new A.dh(q,q,s,q,q,q,B.ac),q,q,q,B.aF,q,q,q)
 p=B.d.da(A.aai(a,2,1,q,q))
