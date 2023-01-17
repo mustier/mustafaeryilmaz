@@ -58117,7 +58117,7 @@ $0(){this.a.cl("https://github.com/mustier")},
 $S:0}
 A.a_O.prototype={
 $0(){var s=document.createElement("a")
-s.href="https://github.com/mustier/mustafaeryilmaz/blob/main/assets/assets/cv/Mustafa_Eryilmaz_CV.pdf"
+s.href="https://github.com/mustier/mustafaeryilmaz/raw/main/assets/assets/cv/Mustafa_Eryilmaz_CV.pdf"
 s.download="Mustafa Eryilmaz"
 s.click()},
 $S:0}
