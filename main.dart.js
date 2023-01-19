@@ -58276,16 +58276,16 @@ else p=a.I(p).f.a.a>=1100?1.3:2
 s=A.c5(q,A.bx(A.a([B.P0,B.ad,A.afb(B.EQ,new A.wO(r,20,20,p),B.fu,!0)],k),B.B,B.n),B.l,q,q,new A.dj(q,q,s,q,q,q,B.af),q,q,q,B.aH,q,q,q)
 p=B.d.df(A.aaN(a,2,1,q,q))
 r=A.aaN(a,3.5,1,3,4)
-return new A.ho(o,A.c5(q,new A.cj(B.aH,A.bx(A.a([n,B.U,B.OR,m,B.U,l,B.U,s,B.U,A.afb(A.a([A.c5(q,A.bx(B.FH,B.E,B.n),B.l,q,q,B.cX,q,q,q,B.eX,q,q,q),A.c5(q,A.bx(B.FC,B.E,B.n),B.l,q,q,B.cX,q,q,q,B.eX,q,q,q)],k),new A.wO(p,20,20,r),B.fu,!0),B.an],k),B.B,B.n),q),B.l,q,q,B.wC,q,q,q,q,q,q,q),q)}}
+return new A.ho(o,A.c5(q,new A.cj(B.aH,A.bx(A.a([n,B.U,B.OQ,m,B.U,l,B.U,s,B.U,A.afb(A.a([A.c5(q,A.bx(B.FH,B.E,B.n),B.l,q,q,B.cX,q,q,q,B.eX,q,q,q),A.c5(q,A.bx(B.FC,B.E,B.n),B.l,q,q,B.cX,q,q,q,B.eX,q,q,q)],k),new A.wO(p,20,20,r),B.fu,!0),B.an],k),B.B,B.n),q),B.l,q,q,B.wC,q,q,q,q,q,q,q),q)}}
 A.kZ.prototype={
 C(a){var s,r,q,p=null,o=t.p,n=A.a([A.c8(this.c,15,B.v,p,B.jW,B.ax,p),B.cS],o)
-for(s=this.d,r=s.length,q=0;q<r;++q)n.push(A.dD(A.a([B.cR,B.OW,new A.lV(1,B.cj,A.bx(A.a([A.c8(s[q],2,B.v,p,B.e1,B.C,p)],o),B.E,B.n),p)],o),B.B,B.n,B.N))
+for(s=this.d,r=s.length,q=0;q<r;++q)n.push(A.dD(A.a([B.cR,B.OV,new A.lV(1,B.cj,A.bx(A.a([A.c8(s[q],2,B.v,p,B.e1,B.C,p)],o),B.E,B.n),p)],o),B.B,B.n,B.N))
 return A.bx(n,B.B,B.n)}}
 A.AE.prototype={
 C(a){return A.bx(B.DZ,B.E,B.n)}}
 A.nR.prototype={
 C(a){var s=this,r=null,q=A.aaN(a,4,1,1.5,2.5),p=t.p,o=A.bx(A.a([A.c8(s.c,4,B.v,r,B.e0,B.C,B.G)],p),B.B,B.n),n=A.a([A.c8(s.e,4,B.v,r,B.b8,B.C,B.G),B.U,A.c8(s.f,4,B.v,r,B.b8,B.C,B.G),B.U],p)
-if(s.r!=="")n.push(A.x7(B.OU,new A.PF(s)))
+if(s.r!=="")n.push(A.x7(B.OT,new A.PF(s)))
 return new A.ho(q,A.c5(r,new A.cj(B.aH,A.bx(A.a([o,B.cS,A.bx(n,B.E,B.n),B.an],p),B.E,B.bS),r),B.l,r,r,B.cX,r,r,r,r,r,r,r),r)},
 cp(a){return this.ZT(a)},
 ZT(a){var s=0,r=A.Y(t.z),q
@@ -58341,14 +58341,14 @@ r=A.ui("assets/images/bg.jpeg",B.c8,n.e?100:m,m)
 q=A.c5(m,m,B.l,A.aD(168,25,25,35),m,m,m,m,m,m,m,m,m)
 p=t.p
 o=A.a([A.c8("Welcome, please sit and enjoy the show",m,m,m,a.I(l).f.a.a>=1100?A.av(a).RG.e.Em(B.i,B.aP):A.av(a).RG.f.Em(B.i,B.aP),m,m),B.U],p)
-if(a.I(l).f.a.a>=1100)o.push(new A.D7(new A.a5V(n),m,m,m,A.agG(m,m,B.be,m,m,m,m,m,m,m,m,m,B.CQ,m,m,m,m,m,m),B.l,m,!1,m,B.OS,m))
+if(a.I(l).f.a.a>=1100)o.push(new A.D7(new A.a5V(n),m,m,m,A.agG(m,m,B.be,m,m,m,m,m,m,m,m,m,B.CQ,m,m,m,m,m,m),B.l,m,!1,m,B.OR,m))
 if(!n.e)o.push(B.U)
 if(a.I(l).f.a.a<=700)o.push(B.ad)
 if(!n.e)if(!(a.I(l).f.a.a<=700))if(a.I(l).f.a.a>=1100){l=n.d
 o.push(A.bx(A.a([B.lG,new A.op(B.ER,2,l,B.bn,m),B.lG,B.ad,B.tU,new A.op(B.F4,6,l,B.r8,m),B.tU,B.ad,B.ko,new A.op(B.E2,10,l,B.r7,m),B.ko,B.ad],p),B.E,B.n))}return new A.ho(s,A.dS(B.V,A.a([r,q,new A.cj(B.aH,A.bx(o,B.E,B.n),m)],p),B.uQ),m)},
 qC(){var s=0,r=A.Y(t.z),q=this
 var $async$qC=A.Z(function(a,b){if(a===1)return A.V(b,r)
-while(true)switch(s){case 0:if(q.d<12){A.DJ(B.d8,q.ga_O(),t.z);++q.d
+while(true)switch(s){case 0:if(q.d<15){A.DJ(B.d8,q.ga_O(),t.z);++q.d
 q.ad(new A.a5W())}return A.W(null,r)}})
 return A.X($async$qC,r)}}
 A.a5V.prototype={
@@ -58389,11 +58389,11 @@ q=B.f.az(3e4*(q.gp(q)+8))
 r=r?B.jD:new A.jj(s)
 return new A.rD(A.a([new A.xr(B.CD,s,B.C,B.b8,new A.aN(q),r)],t.rr),1,null)}}
 A.Dv.prototype={
-C(a){return B.OM}}
+C(a){return B.OL}}
 A.FF.prototype={
-C(a){return B.OT}}
+C(a){return B.OS}}
 A.B9.prototype={
-C(a){return B.OX}}
+C(a){return B.OW}}
 A.EI.prototype={
 C(a){var s=null,r=$.akU()
 return A.bx(A.a([B.U,B.Ky,B.U,new A.Gv(new A.mM(1,1.7,r,s),new A.mM(2,1.1,r,s),new A.mM(3,0.9,r,s),new A.mM(3,1.1,r,s),s)],t.p),B.E,B.n)}}
@@ -58443,7 +58443,7 @@ k.push(B.U)
 m=A.a([],m)
 if(a.I(s).f.a.a>=1100)if(p.a.c.f!=="")m.push(A.x7(A.c8(!p.d?"Read More >>":"Read Less <<",o,o,o,B.v9,o,o),new A.a7e(p)))
 m.push(B.an)
-if(a.I(s).f.a.a>=1100)if(p.a.c.r!=="")m.push(A.x7(B.OV,new A.a7f(p)))
+if(a.I(s).f.a.a>=1100)if(p.a.c.r!=="")m.push(A.x7(B.OU,new A.a7f(p)))
 k.push(A.dD(m,B.B,B.n,B.N))
 l.push(A.bx(k,B.E,B.n))
 return A.c5(o,A.dS(B.V,l,B.ae),B.l,o,o,new A.dj(B.bI,o,o,n,o,o,B.af),o,o,o,B.aH,o,o,o)},
@@ -58491,13 +58491,13 @@ C(a){var s=null
 return new A.cj(B.lC,A.dD(A.a([A.a2j("assets/icons/check.svg"),B.cQ,A.c8(this.c,s,s,s,B.MI,s,s)],t.p),B.B,B.n,B.N),s)}}
 A.EH.prototype={
 C(a){var s=null
-return new A.ho(1.23,A.c5(s,A.bx(A.a([B.Kn,B.xT,B.an,A.c8("Mustafa Ery\u0131lmaz",s,s,s,A.av(a).RG.r,s,s),B.ad,B.OZ,A.x7(B.OY,new A.Xc()),B.an],t.p),B.B,B.n),B.l,B.bI,s,s,s,s,s,s,s,s,s),s)}}
+return new A.ho(1.23,A.c5(s,A.bx(A.a([B.Kn,B.xT,B.an,A.c8("Mustafa Ery\u0131lmaz",s,s,s,A.av(a).RG.r,s,s),B.ad,B.OZ,A.x7(B.OX,new A.Xc()),B.an],t.p),B.B,B.n),B.l,B.bI,s,s,s,s,s,s,s,s,s),s)}}
 A.Xc.prototype={
 $0(){A.Pj()},
 $S:0}
 A.H3.prototype={
 C(a){var s=null,r=t.p
-return new A.D2(A.agp(!0,A.bx(A.a([B.Iq,A.c5(s,A.dD(A.a([B.an,A.ug(s,B.D,B.D,B.D,A.a2j("assets/icons/linkedin.svg"),s,new A.a0d(this),B.D,s),A.ug(s,B.D,B.D,B.D,A.a2j("assets/icons/github.svg"),s,new A.a0e(this),B.D,s),B.an,A.x7(A.af5(B.J,A.dD(A.a([A.c8("Download CV",s,s,s,A.xe(s,s,A.av(a).RG.y.b,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cQ,A.a2j("assets/icons/download.svg")],r),B.B,B.n,B.N),B.l,B.kj),new A.a0f()),B.an],r),B.B,B.n,B.N),B.l,B.zY,s,s,s,s,s,s,s,s,s),A.TB(A.agu(A.bx(A.a([B.vZ,B.vY,B.ad,B.zu,B.DU,B.eT,B.ad,B.OK],r),B.B,B.n),s,B.a0,B.aH,s,B.ar),1)],r),B.B,B.n),!0),s)},
+return new A.D2(A.agp(!0,A.bx(A.a([B.Iq,A.c5(s,A.dD(A.a([B.an,A.ug(s,B.D,B.D,B.D,A.a2j("assets/icons/linkedin.svg"),s,new A.a0d(this),B.D,s),A.ug(s,B.D,B.D,B.D,A.a2j("assets/icons/github.svg"),s,new A.a0e(this),B.D,s),B.an,A.x7(A.af5(B.J,A.dD(A.a([A.c8("Download CV",s,s,s,A.xe(s,s,A.av(a).RG.y.b,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cQ,A.a2j("assets/icons/download.svg")],r),B.B,B.n,B.N),B.l,B.kj),new A.a0f()),B.an],r),B.B,B.n,B.N),B.l,B.zY,s,s,s,s,s,s,s,s,s),A.TB(A.agu(A.bx(A.a([B.vZ,B.vY,B.ad,B.zu,B.DU,B.eT,B.ad,B.OY],r),B.B,B.n),s,B.a0,B.aH,s,B.ar),1)],r),B.B,B.n),!0),s)},
 cp(a){return this.ZU(a)},
 ZU(a){var s=0,r=A.Y(t.z),q
 var $async$cp=A.Z(function(b,c){if(b===1)return A.V(c,r)
@@ -58545,7 +58545,7 @@ A.Xm(r).SW(A.acI(s,B.k6,null),new A.a81())},
 ao(){A.DJ(B.bL,new A.a80(this),t.P)
 this.aM()},
 C(a){var s=null
-return A.aca(s,B.cf,A.k1(a.I(t.w).f.a.a<=500?s:A.bx(A.ae8(new A.a8_(),A.a([B.OQ,A.c5(s,A.BS(A.iB(20),A.ui("assets/images/ragi_studios.png",B.wD,s,s)),B.l,s,B.wy,s,s,s,s,B.CP,s,s,s)],t.p),B.aA,B.d8),B.B,B.bS),s,s),s)}}
+return A.aca(s,B.cf,A.k1(a.I(t.w).f.a.a<=500?s:A.bx(A.ae8(new A.a8_(),A.a([B.OP,A.c5(s,A.BS(A.iB(20),A.ui("assets/images/ragi_studios.png",B.wD,s,s)),B.l,s,B.wy,s,s,s,s,B.CP,s,s,s)],t.p),B.aA,B.d8),B.B,B.bS),s,s),s)}}
 A.a81.prototype={
 $1(a){return!1},
 $S:400}
@@ -61450,8 +61450,8 @@ B.ER=A.a(s(["Developing back-end and front-end of mobile apps, websites and desk
 B.lH=new A.DG(1,"italic")
 B.MQ=new A.n(!0,B.eF,null,null,null,null,null,null,B.lH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.v=new A.qb(2,"ellipsis")
-B.OP=new A.bt("Software developer with 2 years in professional and 5+ years of self-development. Electrical and Electronics Engineer with a bachelor and master's degree. \n\nCloud-based or local, I develop applications with Flutter and games with Unity. I improve myself by working in remote and freelance jobs such as mobile application development, python-based applications and UI design.\n",null,B.MQ,B.ax,null,null,B.v,10,null)
-B.ES=A.a(s([B.OP]),t.p)
+B.OO=new A.bt("Software developer with 2 years in professional and 5+ years of self-development. Electrical and Electronics Engineer with a bachelor and master's degree. \n\nCloud-based or local, I develop applications with Flutter and games with Unity. I improve myself by working in remote and freelance jobs such as mobile application development, python-based applications and UI design.\n",null,B.MQ,B.ax,null,null,B.v,10,null)
+B.ES=A.a(s([B.OO]),t.p)
 B.D3=new A.uf(null)
 B.KS=new A.HE(null)
 B.ET=A.a(s([B.D3,B.KS]),t.p)
@@ -61469,9 +61469,9 @@ B.cS=new A.dE(null,5,null,null)
 B.e1=new A.n(!0,B.eF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.P5=new A.bt("Department of Electrical and Electronics Engineering, 2023\nHacettepe University\n\nThesis topic: Design of Automated Optical Inspection Device Classification of PCB Defects\nI set up a computer vision infrastructure that can detect and classify errors on the PCB and constantly updates its training with new visual data in the loop.\n",null,B.e1,B.ax,null,null,B.v,15,null)
 B.Kd=new A.dE(null,30,null,null)
-B.OL=new A.bt("Bachelor of Science",null,B.jU,B.C,null,null,B.v,6,null)
-B.ON=new A.bt("Department of Electrical and Electronics Engineering, 2020\nHacettepe University\n\nGraduation Project: Swarm Drones\nI have set up a swarm drones that can autonomously perform a joint task with communication among themselves. There were 3 active drones in the system and the number could be increased if desired.\n",null,B.e1,B.ax,null,null,B.v,15,null)
-B.F2=A.a(s([B.P6,B.cS,B.P5,B.Kd,B.OL,B.cS,B.ON]),t.p)
+B.OK=new A.bt("Bachelor of Science",null,B.jU,B.C,null,null,B.v,6,null)
+B.OM=new A.bt("Department of Electrical and Electronics Engineering, 2020\nHacettepe University\n\nGraduation Project: Swarm Drones\nI have set up a swarm drones that can autonomously perform a joint task with communication among themselves. There were 3 active drones in the system and the number could be increased if desired.\n",null,B.e1,B.ax,null,null,B.v,15,null)
+B.F2=A.a(s([B.P6,B.cS,B.P5,B.Kd,B.OK,B.cS,B.OM]),t.p)
 B.dY=new A.hc(0,"miter")
 B.Kw=new A.hc(1,"round")
 B.Kx=new A.hc(2,"bevel")
@@ -61527,10 +61527,10 @@ B.vo=new A.nj(2,"bottomLeft")
 B.Qf=new A.jv(B.vn,B.vo)
 B.Qg=new A.jv(B.vo,B.vn)
 B.FG=A.a(s([B.Qe,B.Qh,B.Qf,B.Qg]),A.a4("x<jv>"))
-B.OO=new A.bt("Certificaitons",null,B.jV,B.C,null,null,B.v,null,null)
+B.ON=new A.bt("Certificaitons",null,B.jV,B.C,null,null,B.v,null,null)
 B.ad=new A.dE(null,10,null,null)
 B.P1=new A.bt("    - Driving License B\n    - UAS-1 License (UAV-1 License)\n    - CMAS Diving License\n                              ",null,B.jW,B.C,null,null,B.v,6,null)
-B.FH=A.a(s([B.OO,B.ad,B.P1]),t.p)
+B.FH=A.a(s([B.ON,B.ad,B.P1]),t.p)
 B.FI=A.a(s([0,0,32754,11263,65534,34815,65534,18431]),t.t)
 B.m5=A.a(s([0,0,65490,12287,65535,34815,65534,18431]),t.t)
 B.E8=A.a(s([137,80,78,71,13,10,26,10]),t.Z)
@@ -63164,35 +63164,35 @@ B.OG=new A.dF(B.Nb,B.Oo,B.O7,B.LP,B.NZ,B.N4,B.Ot,B.Mg,B.MN,B.NU,B.LK,B.O9,B.NX,B
 B.OH=new A.xf(1,"longestLine")
 B.OI=new A.bt("RaGi Studios my own account. I am publishing some of my developed apps.",null,B.b8,B.C,B.G,null,B.v,4,null)
 B.OJ=new A.bt("You can check out my Goole Play Store Account.",null,B.b8,B.C,B.G,null,B.v,4,null)
-B.ND=new A.n(!0,B.be,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.OK=new A.bt("mustier-v0.1.42",null,B.ND,B.ax,null,null,null,null,null)
 B.Op=new A.n(!0,B.bn,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.L3=new A.fq("flutter",null,B.as,B.Op)
 B.jS=new A.fq(">",null,B.as,null)
 B.F0=A.a(s([B.L3,B.jS]),t.nO)
 B.L2=new A.fq("<",B.F0,B.as,null)
-B.OM=new A.bt(null,B.L2,null,null,null,null,null,null,null)
+B.OL=new A.bt(null,B.L2,null,null,null,null,null,null,null)
 B.Mj=new A.n(!0,null,null,null,null,null,25,null,B.lH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.OQ=new A.bt("Welcome",null,B.Mj,null,null,null,null,null,null)
-B.OR=new A.bt("About Me",null,B.jV,B.C,null,null,B.v,null,null)
+B.OP=new A.bt("Welcome",null,B.Mj,null,null,null,null,null,null)
+B.OQ=new A.bt("About Me",null,B.jV,B.C,null,null,B.v,null,null)
 B.LY=new A.n(!0,B.l6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.OS=new A.bt("EXPLORE NOW",null,B.LY,null,null,null,null,null,null)
+B.OR=new A.bt("EXPLORE NOW",null,B.LY,null,null,null,null,null,null)
 B.NF=new A.n(!0,B.r8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.L6=new A.fq("python",null,B.as,B.NF)
 B.FJ=A.a(s([B.L6,B.jS]),t.nO)
 B.L1=new A.fq("<",B.FJ,B.as,null)
-B.OT=new A.bt(null,B.L1,null,null,null,null,null,null,null)
-B.NE=new A.n(!0,B.be,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.OU=new A.bt("Project Link",null,B.NE,null,null,null,null,null,null)
-B.OV=new A.bt("Project Link",null,B.v9,null,null,null,null,null,null)
-B.OW=new A.bt("- ",null,B.e1,B.C,null,null,B.v,null,null)
+B.OS=new A.bt(null,B.L1,null,null,null,null,null,null,null)
+B.ND=new A.n(!0,B.be,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.OT=new A.bt("Project Link",null,B.ND,null,null,null,null,null,null)
+B.OU=new A.bt("Project Link",null,B.v9,null,null,null,null,null,null)
+B.OV=new A.bt("- ",null,B.e1,B.C,null,null,B.v,null,null)
 B.O_=new A.n(!0,B.r7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.L5=new A.fq("c#",null,B.as,B.O_)
 B.EO=A.a(s([B.L5,B.jS]),t.nO)
 B.L4=new A.fq("<",B.EO,B.as,null)
-B.OX=new A.bt(null,B.L4,null,null,null,null,null,null,null)
+B.OW=new A.bt(null,B.L4,null,null,null,null,null,null,null)
 B.MK=new A.n(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.OY=new A.bt("mustafaerylmzz@gmail.com",null,B.MK,null,null,null,null,null,null)
+B.OX=new A.bt("mustafaerylmzz@gmail.com",null,B.MK,null,null,null,null,null,null)
+B.NE=new A.n(!0,B.be,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.OY=new A.bt("mustier-v0.1.43",null,B.NE,B.ax,null,null,null,null,null)
 B.LF=new A.n(!0,null,null,null,null,null,null,B.f0,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.OZ=new A.bt("Flutter Developer \n Electrical Electronics Engineer",null,B.LF,B.ax,null,null,null,null,null)
 B.P0=new A.bt("My Skills",null,B.jU,B.ax,null,null,B.v,6,null)
