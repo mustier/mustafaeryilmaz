@@ -58273,7 +58273,7 @@ s=A.aed(B.bI,2)
 r=a.I(p).f.a.a>=1100?3:1
 if(a.I(p).f.a.a<=500)p=1
 else p=a.I(p).f.a.a>=1100?1.3:2
-s=A.c5(q,A.bx(A.a([B.P2,B.ad,A.afb(B.ES,new A.wO(r,20,20,p),B.fu,!0)],k),B.B,B.n),B.l,q,q,new A.dj(q,q,s,q,q,q,B.af),q,q,q,B.aH,q,q,q)
+s=A.c5(q,A.bx(A.a([B.P1,B.ad,A.afb(B.ES,new A.wO(r,20,20,p),B.fu,!0)],k),B.B,B.n),B.l,q,q,new A.dj(q,q,s,q,q,q,B.af),q,q,q,B.aH,q,q,q)
 p=B.d.df(A.aaN(a,2,1,q,q))
 r=A.aaN(a,3.5,1,3,4)
 return new A.ho(o,A.c5(q,new A.cj(B.aH,A.bx(A.a([n,B.U,B.OS,m,B.U,l,B.U,s,B.U,A.afb(A.a([A.c5(q,A.bx(B.FJ,B.E,B.n),B.l,q,q,B.cX,q,q,q,B.eX,q,q,q),A.c5(q,A.bx(B.FE,B.E,B.n),B.l,q,q,B.cX,q,q,q,B.eX,q,q,q)],k),new A.wO(p,20,20,r),B.fu,!0),B.an],k),B.B,B.n),q),B.l,q,q,B.wE,q,q,q,q,q,q,q),q)}}
@@ -58407,7 +58407,7 @@ A.HB.prototype={
 C(a){var s,r,q=null,p=t.w,o=!(a.I(p).f.a.a<=700)?4.5:2.5,n=A.iB(10)
 n=A.BS(n,A.ui("assets/images/ragi_studios.png",q,!(a.I(p).f.a.a<=700)?q:100,q))
 s=t.p
-r=A.a([B.P4,B.ad,B.OL,A.x7(B.Pa,new A.a2d(this)),B.an],s)
+r=A.a([B.P3,B.ad,B.OL,A.x7(B.Pa,new A.a2d(this)),B.an],s)
 if(!(a.I(p).f.a.a<=500))r.push(B.OK)
 r.push(B.an)
 return new A.ho(o,A.c5(q,new A.cj(B.aH,A.dD(A.a([n,B.cR,new A.iM(1,B.ck,A.bx(r,B.E,B.bS),q)],s),B.E,B.n,B.N),q),B.l,q,q,B.wD,q,q,q,q,q,q,q),q)},
@@ -58482,7 +58482,7 @@ C(a){var s=null
 return new A.cj(B.lC,A.dD(A.a([A.c8(this.c,s,s,s,B.v8,s,s),A.c8(this.d,s,s,s,s,s,s)],t.p),B.B,B.r_,B.N),s)}}
 A.BZ.prototype={
 C(a){var s=null
-return A.bx(A.a([B.eT,new A.cj(B.lD,A.c8("Coding",s,s,s,A.av(a).RG.x,s,s),s),B.vQ,B.vK,B.vS,B.vM,B.vR,B.vP,B.vL,B.vN,B.vO],t.p),B.E,B.n)}}
+return A.bx(A.a([B.eT,new A.cj(B.lD,A.c8("Coding",s,s,s,A.av(a).RG.x,s,s),s),B.vQ,B.vK,B.vR,B.vO,B.vS,B.vP,B.vL,B.vM,B.vN],t.p),B.E,B.n)}}
 A.E8.prototype={
 C(a){var s=null
 return A.bx(A.a([B.eT,new A.cj(B.lD,A.c8("Knowledges",s,s,s,A.av(a).RG.x,s,s),s),B.DV,B.DO,B.DR,B.DQ,B.DU,B.DT,B.DP,B.DN,B.DS,B.DM],t.p),B.E,B.n)}}
@@ -58491,7 +58491,7 @@ C(a){var s=null
 return new A.cj(B.lC,A.dD(A.a([A.a2j("assets/icons/check.svg"),B.cQ,A.c8(this.c,s,s,s,B.MK,s,s)],t.p),B.B,B.n,B.N),s)}}
 A.EH.prototype={
 C(a){var s=null
-return new A.ho(1.23,A.c5(s,A.bx(A.a([B.Kp,B.xV,B.an,A.c8("Mustafa Ery\u0131lmaz",s,s,s,A.av(a).RG.r,s,s),B.ad,B.P0,A.x7(B.OZ,new A.Xc()),B.an],t.p),B.B,B.n),B.l,B.bI,s,s,s,s,s,s,s,s,s),s)}}
+return new A.ho(1.23,A.c5(s,A.bx(A.a([B.Kp,B.xV,B.an,A.c8("Mustafa Ery\u0131lmaz",s,s,s,A.av(a).RG.r,s,s),B.ad,B.P4,A.x7(B.OZ,new A.Xc()),B.an],t.p),B.B,B.n),B.l,B.bI,s,s,s,s,s,s,s,s,s),s)}}
 A.Xc.prototype={
 $0(){A.Pj()},
 $S:0}
@@ -60640,13 +60640,13 @@ B.vJ=new A.rw(0,"stretch")
 B.kf=new A.rw(1,"glow")
 B.vK=new A.f0(0.9,"Python",null)
 B.vL=new A.f0(0.65,"C",null)
-B.vM=new A.f0(0.75,"JavaScript",null)
-B.vN=new A.f0(0.55,"Java",null)
-B.vO=new A.f0(0.55,"Node.js",null)
+B.vM=new A.f0(0.55,"Java",null)
+B.vN=new A.f0(0.55,"Node.js",null)
+B.vO=new A.f0(0.85,"JavaScript",null)
 B.vP=new A.f0(0.65,"C++",null)
 B.vQ=new A.f0(0.9,"Dart",null)
-B.vR=new A.f0(0.75,"C#",null)
-B.vS=new A.f0(0.75,"ReactJS",null)
+B.vR=new A.f0(0.85,"ReactJS",null)
+B.vS=new A.f0(0.75,"C#",null)
 B.vT=new A.rG(0,"normal")
 B.vU=new A.rG(1,"preserve")
 B.A=new A.fD(0,"dismissed")
@@ -61395,8 +61395,8 @@ B.HP=new A.bA([50,B.ll,100,B.eO,200,B.Bc,300,B.eN,350,B.AW,400,B.AO,500,B.lg,600
 B.r6=new A.mo(B.HP,4288585374)
 B.jT=new A.n(!0,B.r6,null,null,null,null,17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ax=new A.i7(2,"center")
-B.P1=new A.bt("Publications",null,B.jT,B.ax,null,null,null,null,null)
-B.Kg=new A.dE(null,35,B.P1,null)
+B.P0=new A.bt("Publications",null,B.jT,B.ax,null,null,null,null,null)
+B.Kg=new A.dE(null,35,B.P0,null)
 B.vD=new A.nR("Defect Classification from Electronic Card Images by Deep Learning paper","Conference paper IEEE \xb7 May 15, 2022\n\n2020 28th Signal Processing and Communications Applications Conference (SIU)","In this study, the performance of the Deep Learning method to detect selected manufacturing defects occurring during the production phase on the printed circuit boards (PCB) was examined and the results obtained by different training and design forms of the networks are discussed.","https://ieeexplore.ieee.org/document/9864727",null)
 B.U=new A.dE(null,20,null,null)
 B.Pb=new A.bt("Patents",null,B.jT,B.ax,null,null,null,null,null)
@@ -61531,8 +61531,8 @@ B.Qi=new A.jv(B.vo,B.vn)
 B.FI=A.a(s([B.Qg,B.Qj,B.Qh,B.Qi]),A.a4("x<jv>"))
 B.OP=new A.bt("Certificaitons",null,B.jV,B.C,null,null,B.v,null,null)
 B.ad=new A.dE(null,10,null,null)
-B.P3=new A.bt("    - Driving License B\n    - UAS-1 License (UAV-1 License)\n    - CMAS Diving License\n                              ",null,B.jW,B.C,null,null,B.v,6,null)
-B.FJ=A.a(s([B.OP,B.ad,B.P3]),t.p)
+B.P2=new A.bt("    - Driving License B\n    - UAS-1 License (UAV-1 License)\n    - CMAS Diving License\n                              ",null,B.jW,B.C,null,null,B.v,6,null)
+B.FJ=A.a(s([B.OP,B.ad,B.P2]),t.p)
 B.FK=A.a(s([0,0,32754,11263,65534,34815,65534,18431]),t.t)
 B.m5=A.a(s([0,0,65490,12287,65535,34815,65534,18431]),t.t)
 B.Ea=A.a(s([137,80,78,71,13,10,26,10]),t.Z)
@@ -63195,10 +63195,10 @@ B.MM=new A.n(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,n
 B.OZ=new A.bt("mustafaerylmzz@gmail.com",null,B.MM,null,null,null,null,null,null)
 B.NG=new A.n(!0,B.be,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.P_=new A.bt("mustier-v0.1.43",null,B.NG,B.ax,null,null,null,null,null)
+B.P1=new A.bt("My Skills",null,B.jU,B.ax,null,null,B.v,6,null)
+B.P3=new A.bt("RaGi Studios",null,B.e0,null,null,null,null,null,null)
 B.LH=new A.n(!0,null,null,null,null,null,null,B.f0,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.P0=new A.bt("Flutter Developer \n Electrical Electronics Engineer",null,B.LH,B.ax,null,null,null,null,null)
-B.P2=new A.bt("My Skills",null,B.jU,B.ax,null,null,B.v,6,null)
-B.P4=new A.bt("RaGi Studios",null,B.e0,null,null,null,null,null,null)
+B.P4=new A.bt("Full Stack Developer \n Electrical Electronics Engineer",null,B.LH,B.ax,null,null,null,null,null)
 B.Mp=new A.n(!0,B.bn,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.v0,null,null,null,null,null,null,null,null)
 B.Pa=new A.bt("RaGi Studios",null,B.Mp,null,null,null,null,null,null)
 B.Rq=new A.HQ(0,"system")
